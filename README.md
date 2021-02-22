@@ -11,6 +11,6 @@ The objective of this project was to develop Java Game Box: Galaga a simplified 
  - creating classes and methods
  - implementing these in Java
 
-Originally, a base-unfinished code was given, with the purpose for it to be completed to meet with project specs and requirements. This project was worked by [sebagabs](https://github.com/sebagabs) and [xavierRosado](https://github.com/xavierRosado).
+Originally, a base-unfinished code was given, with the purpose for it to be completed to meet with project specs and requirements. This project was worked by [sebastian-maldoando4](https://github.com/sebastian-maldonado4) and [xavierRosado](https://github.com/xavierRosado).
 
 Original project can be found [here](https://github.com/uprm-ciic4010-s20/java-game-box-project-javalicious).
