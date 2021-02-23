@@ -3,7 +3,7 @@
 # Java Game Box: Galaga
 **Worked during February 2020**
 
-First project for the CIIC 4010: Advanced Programming class (object oriented programming in Java).
+First project for the CIIC 4010: Advanced Programming course (object oriented programming in Java).
 
 The objective of this project was to develop Java Game Box: Galaga a simplified version of the game of the century Galaga. This project was worked in teams of two students. The project helped develop technical skills such as:
 
