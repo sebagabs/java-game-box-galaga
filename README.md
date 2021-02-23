@@ -1,4 +1,4 @@
-## /java-game-box-galaga
+## [/java-game-box-galaga](https://github.com/sebagabs/java-game-box-galaga)
 
 # Java Game Box: Galaga
 **Worked during February 2020**
